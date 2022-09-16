@@ -1,7 +1,7 @@
 ### <h1> Hi there 👋</h1>
 
 - My name is Laís and I'm studying computer engineering. I learn fast, I like to study and I'm always looking for new experiences.
-- 🌱 I’m currently learning JavaScript, Python and PHP.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: lais.romero@gmail.com
 
 <div>
